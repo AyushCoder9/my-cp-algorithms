@@ -12,4 +12,4 @@ result = linear_search(my_list, search_element)
 if result != -1:
     print(f"Element {search_element} is present at index {result}")
 else:
-    print(f"Element {search_element} is not present in array")  
+    print(f"Element {search_element} is not present in array")
